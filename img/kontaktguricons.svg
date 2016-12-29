@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>kontaktguricons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-207.000000, -468.000000)">
+            <g id="kontakt" sketch:type="MSLayerGroup" transform="translate(208.000000, 468.000000)">
+                <g id="Icon_Kontakt" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-42" fill="#EEEEEE" x="0" y="0" width="34.3523546" height="34.1400202" rx="2"></rect>
+                    <path d="M13.2775845,16.5063028 C14.4279889,18.7531925 16.2814183,20.5872261 18.5422826,21.7384593 L20.2998449,19.9917606 C20.5155457,19.7773931 20.8351025,19.7059372 21.1147147,19.8012117 C22.0094737,20.0949747 22.976133,20.2537654 23.966759,20.2537654 C24.4061496,20.2537654 24.765651,20.6110447 24.765651,21.0477194 L24.765651,23.8186187 C24.765651,24.2552934 24.4061496,24.6125727 23.966759,24.6125727 C16.4651635,24.6125727 10.3855956,18.5705831 10.3855956,11.1153554 C10.3855956,10.6786807 10.745097,10.3214014 11.1844875,10.3214014 L13.9806094,10.3214014 C14.42,10.3214014 14.7795014,10.6786807 14.7795014,11.1153554 C14.7795014,12.1077978 14.9392798,13.0605426 15.2348698,13.949771 C15.3227479,14.2276549 15.2588366,14.537297 15.0351468,14.7596041 L13.2775845,16.5063028 L13.2775845,16.5063028 Z" id="Shape" fill="#FFA000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

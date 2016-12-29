@@ -1,0 +1,127 @@
+<h1>Fahrten 2013</h1>
+
+<table>
+<colgroup>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+<col style="text-align:center;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:center;">Hin</th>
+	<th style="text-align:center;">Her</th>
+	<th style="text-align:center;">Nach</th>
+	<th style="text-align:center;">Grund</th>
+	<th style="text-align:center;">Verpflegungsmehraufwendungen</th>
+	<th style="text-align:center;">Entfernung (hin und rück)</th>
+	<th style="text-align:center;">Hotel (h), Wohnmobil (w), Privat (p), Zelt (z)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">Halle</td>
+	<td style="text-align:center;">MKZ</td>
+	<td style="text-align:center;">x 24<br>&#8212;<br> x 24<br>&#8212;<br> x 24</td>
+	<td style="text-align:center;">x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br> <br><strong><em>= XX km</em></strong><br></td>
+	<td style="text-align:center;"><br>x Hotel<br>&#8212;<br> x Hotel<br>&#8212;<br> x Hotel<br> <br><strong><em>= XX €</em></strong><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">Halle</td>
+	<td style="text-align:center;">MKZ</td>
+	<td style="text-align:center;">x 24<br>&#8212;<br> x 24<br>&#8212;<br> x 24</td>
+	<td style="text-align:center;">x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br> <br><strong><em>= XX km</em></strong><br></td>
+	<td style="text-align:center;"><br>x Hotel<br>&#8212;<br> x Hotel<br>&#8212;<br> x Hotel<br> <br><strong><em>= XX €</em></strong><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">Halle</td>
+	<td style="text-align:center;">MKZ</td>
+	<td style="text-align:center;">x 24<br>&#8212;<br> x 24<br>&#8212;<br> x 24</td>
+	<td style="text-align:center;">x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br> <br><strong><em>= XX km</em></strong><br></td>
+	<td style="text-align:center;"><br>x Hotel<br>&#8212;<br> x Hotel<br>&#8212;<br> x Hotel<br> <br><strong><em>= XX €</em></strong><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">Halle</td>
+	<td style="text-align:center;">MKZ</td>
+	<td style="text-align:center;">x 24<br>&#8212;<br> x 24<br>&#8212;<br> x 24</td>
+	<td style="text-align:center;">x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br> <br><strong><em>= XX km</em></strong><br></td>
+	<td style="text-align:center;"><br>x Hotel<br>&#8212;<br> x Hotel<br>&#8212;<br> x Hotel<br> <br><strong><em>= XX €</em></strong><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">..</td>
+	<td style="text-align:center;">Halle</td>
+	<td style="text-align:center;">MKZ</td>
+	<td style="text-align:center;">x 24<br>&#8212;<br> x 24<br>&#8212;<br> x 24</td>
+	<td style="text-align:center;">x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br>&#8212;<br> x 175 km Berlin - Halle<br> <br><strong><em>= XX km</em></strong><br></td>
+	<td style="text-align:center;"><br>x Hotel<br>&#8212;<br> x Hotel<br>&#8212;<br> x Hotel<br> <br><strong><em>= XX €</em></strong><br></td>
+</tr>
+<tr>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+	<td style="text-align:center;"><br></td>
+</tr>
+</tbody>
+</table>

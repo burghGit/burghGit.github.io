@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>impressumguricons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectboundingbox" id="filter-1">
+            <feoffset dx="0" dy="1" in="SourceAlpha" result="shadowoffsetouter1"></feoffset>
+            <fegaussianblur stdDeviation="0.5" in="shadowoffsetouter1" result="shadowblurouter1"></fegaussianblur>
+            <fecolormatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.28 0" in="shadowblurouter1" type="matrix" result="shadowmatrixouter1"></fecolormatrix>
+            <femerge>
+                <femergenode in="shadowmatrixouter1"></femergenode>
+                <femergenode in="SourceGraphic"></femergenode>
+            </femerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-246.000000, -473.000000)" filter="url(#filter-1)" fill="#727272">
+            <g id="impressum" sketch:type="MSLayerGroup" transform="translate(247.000000, 473.000000)">
+                <path d="M13.1689938,22.1800106 L16.0954369,22.1800106 L16.0954369,13.3080064 L13.1689938,13.3080064 L13.1689938,22.1800106 L13.1689938,22.1800106 Z M0,14.7866738 C0,22.9489177 6.55523247,29.5733475 14.6322153,29.5733475 C22.7091982,29.5733475 29.2644307,22.9489177 29.2644307,14.7866738 C29.2644307,6.62442984 22.7091982,0 14.6322153,0 C6.55523247,0 0,6.62442984 0,14.7866738 Z M13.1689938,10.3506716 L16.0954369,10.3506716 L16.0954369,7.39333688 L13.1689938,7.39333688 L13.1689938,10.3506716 L13.1689938,10.3506716 Z" id="Icon_Impressum" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_stencil_Kontakt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.62,20.79 C18.06,23.62 20.38,25.93 23.21,27.38 L25.41,25.18 C25.68,24.91 26.08,24.82 26.43,24.94 C27.55,25.31 28.76,25.51 30,25.51 C30.55,25.51 31,25.96 31,26.51 L31,30 C31,30.55 30.55,31 30,31 C20.61,31 13,23.39 13,14 C13,13.45 13.45,13 14,13 L17.5,13 C18.05,13 18.5,13.45 18.5,14 C18.5,15.25 18.7,16.45 19.07,17.57 C19.18,17.92 19.1,18.31 18.82,18.59 L16.62,20.79 L16.62,20.79 Z M0,9.00111426 C0,4.02993612 4.02600968,0 9.00111426,0 L33.9988857,0 C38.9700639,0 43,4.02600968 43,9.00111426 L43,33.9988857 C43,38.9700639 38.9739903,43 33.9988857,43 L9.00111426,43 C4.02993612,43 0,38.9739903 0,33.9988857 L0,9.00111426 Z" id="path-1"></path>
+    </defs>
+    <g id="@FlatGuricht" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons_Master" sketch:type="MSArtboardGroup" transform="translate(-383.000000, -151.000000)">
+            <g id="02_stencil_set" sketch:type="MSLayerGroup" transform="translate(83.000000, 123.000000)">
+                <g id="Icon_stencil_Kontakt" transform="translate(300.000000, 28.000000)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#212121" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

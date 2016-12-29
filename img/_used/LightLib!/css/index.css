@@ -1,0 +1,144 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.army-of-me {
+  float: left;
+  clear: both;
+  width: 600px;
+  height: 600px;
+  margin: 121px 0 0 36.5%;
+  border: 2px solid #4488ff;
+  border-radius: 20px;
+  background: url('../images/army_of_me_4.jpg') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left top;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, .5);
+}
+
+.army-of-me:hover {
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, .5);
+}
+
+.element {
+  float: left;
+  width: 100%;
+  height: 200px;
+  background-size: auto auto;
+  background-position: left top;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-1 {
+  margin-top: 154px;
+  background-image: url('../images/bgnoise_lg.png');
+}
+
+.element-10 {
+  clear: both;
+  background-image: url('../images/lghtmesh.png');
+}
+
+.element-11 {
+  clear: both;
+  background-image: url('../images/light_wool.png');
+}
+
+.element-12 {
+  clear: both;
+  background-image: url('../images/little_pluses.png');
+}
+
+.element-13 {
+  clear: both;
+  background-image: url('../images/mochaGrunge.png');
+}
+
+.element-14 {
+  clear: both;
+  background-image: url('../images/otis_redding.png');
+}
+
+.element-15 {
+  clear: both;
+  background-image: url('../images/p5.png');
+}
+
+.element-16 {
+  clear: both;
+  background-image: url('../images/satinweave.png');
+}
+
+.element-17 {
+  clear: both;
+  background-image: url('../images/shinedotted.png');
+}
+
+.element-18 {
+  clear: both;
+  background-image: url('../images/squairy_light.png');
+}
+
+.element-19 {
+  clear: both;
+  background-image: url('../images/white_bed_sheet.png');
+}
+
+.element-2 {
+  clear: both;
+  background-image: url('../images/brillant.png');
+}
+
+.element-20 {
+  clear: both;
+  background-image: url('../images/white_carbon.png');
+}
+
+.element-21 {
+  clear: both;
+  background-image: url('../images/white_carbonfiber.png');
+}
+
+.element-22 {
+  clear: both;
+  background-image: url('../images/worn_dots.png');
+}
+
+.element-23,
+.element-24,
+.element-3 {
+  clear: both;
+  background-image: url('../images/clean_textile.png');
+}
+
+.element-4 {
+  clear: both;
+  background-image: url('../images/crosses.png');
+}
+
+.element-5 {
+  clear: both;
+  background-image: url('../images/first_aid_kit.png');
+}
+
+.element-6 {
+  clear: both;
+  background-image: url('../images/graphy.png');
+}
+
+.element-7 {
+  clear: both;
+  background-image: url('../images/green_gobbler.png');
+}
+
+.element-8 {
+  clear: both;
+  background-image: url('../images/halftone.png');
+}
+
+.element-9 {
+  clear: both;
+  background-image: url('../images/ice_age.png');
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Embedded Video with Placeholder Image</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body class="">
+        <header class="header">
+            <h1 class="header__title">Embedded Video with Placeholder Image</h1>
+            <a href="http://codepen.io/praliedutzel/post/full-width-embedded-videos-with-placeholder-images" target="_blank">Read the Article</a>
+        </header>
+        <section class="video">
+            <img src="http://placehold.it/350x150" data-video="http://www.youtube.com/embed/q3Dt6kI-ajA?autoplay=1" title="Play Video" class="video__placeholder" />
+            <button class="video__button"></button>
+        </section>
+        <section class="video">
+            <img src="http://placehold.it/350x150" />
+            <iframe src="http://player.vimeo.com/video/66991893?api=1&title=0&amp;byline=0&amp;portrait=0&amp;color=57c0d4" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen id="clip2"></iframe>
+            <button class="video__button"></button>
+        </section>
+        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src="js/index.js"></script>
+    </body>
+</html>

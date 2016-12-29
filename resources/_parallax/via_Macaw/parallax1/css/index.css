@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.element {
+  float: left;
+  width: 80%;
+  margin-left: 10%;
+  background-color: rgb(222, 222, 222);
+}
+
+.element-1 {
+  height: 127px;
+  background-image: url('../images/_linen%20Kopie.png');
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.element-2 {
+  position: relative;
+  clear: both;
+  z-index: 0;
+  height: 379px;
+  background-image: url('../images/sparrows_fr_00399.png'), url('../images/sparrows_mid_00399.png'), url('../images/sparrows_bg_00399.png');
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-size: cover, auto auto, cover;
+  background-position: left top, left top, left top;
+  background-attachment: fixed, fixed, fixed;
+}
+
+.element-3 {
+  position: relative;
+  clear: both;
+  z-index: 1;
+  height: 362px;
+  margin-top: -7px;
+  background-image: url('../images/3%20Moewe%20und%20Elli_small.png'), url('../images/2%20Moewe%20und%20Elli_small.png'), url('../images/1%20Moewe%20und%20Elli_small.png'), url('../images/0%20Moewe%20und%20Elli_small.png');
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+  background-size: cover, cover, cover, cover;
+  background-position: left top, left top, left top, left top;
+  background-attachment: fixed, fixed, fixed, fixed;
+}
+
+.element-4 {
+  clear: both;
+  height: 416px;
+  background-image: url('../images/a%20.png');
+  background-size: 50px auto;
+  background-position: left top;
+}

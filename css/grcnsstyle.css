@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'guricons4';
+  src: url('../fonts/guricons4.eot?8qfsn7');
+  src: url('../fonts/guricons4.eot?8qfsn7#iefix') format('embedded-opentype'), url('fonts/guricons4.ttf?8qfsn7') format('truetype'), url('fonts/guricons4.woff?8qfsn7') format('woff'), url('fonts/guricons4.svg?8qfsn7#guricons4') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'guricons4' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.gur-uniEA01:before {
+  content: "\ea01";
+}
+.gur-icke:before {
+  content: "\ea01";
+}
+.gur-about:before {
+  content: "\ea01";
+}
+.gur-ueber:before {
+  content: "\ea01";
+}
+.gur-kontakt:before {
+  content: "\ea02";
+}
+.gur-contact:before {
+  content: "\ea02";
+}
+.gur-guricons4:before {
+  content: "\ea02";
+}
+.gur-FlatGuricht:before {
+  content: "\ea02";
+}
+.gur-uniEA03:before {
+  content: "\ea03";
+}
+.gur-praxis:before {
+  content: "\ea04";
+}
+.gur-workon:before {
+  content: "\ea04";
+}
+.gur-uniEA05:before {
+  content: "\ea05";
+}
+/*# sourceMappingURL=grcnsstyle.css.map */

@@ -1,0 +1,190 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/d/01_projects/Homepage_Redesign_late_2014_FlatGuricht/Homepage_Redesign_late_2014_FlatGuricht/ExternesHtml/150412_@FlatGuricht Module_Raw/_elements/___CleanPlate/151114_2055/@FlatGuricht_RC_0.5/css/animate.css",
+		"/Volumes/d/01_projects/Homepage_Redesign_late_2014_FlatGuricht/Homepage_Redesign_late_2014_FlatGuricht/ExternesHtml/150412_@FlatGuricht Module_Raw/_elements/___CleanPlate/151114_2055/@FlatGuricht_RC_0.5/Praxis.html",
+		"/Volumes/d/01_projects/Homepage_Redesign_late_2014_FlatGuricht/Homepage_Redesign_late_2014_FlatGuricht/ExternesHtml/150412_@FlatGuricht Module_Raw/_elements/___CleanPlate/151114_2055/@FlatGuricht_RC_0.5/index.html",
+		"/Volumes/d/01_projects/Homepage_Redesign_late_2014_FlatGuricht/Homepage_Redesign_late_2014_FlatGuricht/ExternesHtml/150412_@FlatGuricht Module_Raw/_elements/___CleanPlate/151114_2055/@FlatGuricht_RC_0.5/js/jquery.lazyloadxt.extra.js",
+		"/Users/hd/Library/Application Support/Dropzone 3/Actions/Open Application Copy.dzbundle/action.rb",
+		"/Users/hd/Library/Application Support/Dropzone 3/Actions/Zip Files.dzbundle/action.rb",
+		"/Users/hd/Library/Application Support/Dropzone 3/Actions/open_with.dzbundle/action.rb",
+		"/Users/hd/Library/Application Support/Dropzone 3/Actions/test.dzbundle/action.rb",
+		"/Volumes/USB_x/EC_Setup_160217_2/ScreenFloat.v1.5.11.Bilingual.MacOSX.Cracked-CORE/core.nfo",
+		"/Users/hd/.scratchpad",
+		"/Users/hd/Library/Application Support/Dropzone 3/Actions/Kaleidoscope Diff Copy.dzbundle/action.rb",
+		"/Users/hd/Downloads/FayTec.FayIN.v2.1.3.1.for.After.Effects.CC.2015.MACOSX-AMPED/amped.nfo",
+		"/Volumes/Sketch 3.5.2/noy.nfo",
+		"/Volumes/d/01_projects/vav/2011_08_23/sterne_B/final/2015_01_09/fileshuttle-master/NSBezierPath-RoundedRect.h",
+		"/Volumes/Data_02/TogLib_Data_02.trlib/Library.sqlite",
+		"/Volumes/Data_02/TogLib_Data_02.trlib/Library.sqlite-shm",
+		"/Users/hd/Downloads/Aquarium.Videos.v2.3.Bilingual.MacOSX.Retail-CORE/core.nfo",
+		"/Users/hd/Downloads/ScreenFloat.v1.5.11.Bilingual.MacOSX.Cracked-CORE/core.nfo",
+		"/Volumes/UNTITLED/kexte etc./untitled",
+		"/Users/hd/working/Distribution",
+		"/Volumes/UNTITLED/Cuda/Distribution",
+		"/Users/hd/Library/Application Support/Dropzone 3/Actions.dzdb Kopie"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

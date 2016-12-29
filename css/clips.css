@@ -1,0 +1,41 @@
+.video {
+  position: relative;
+  height: 281px;
+  width: 500px;
+  background: #73AF96;
+  position: absolute;
+}
+
+.video img {
+  opacity: .65;
+}
+
+.play {
+  height: 80px;
+  width: 120px;
+  position: absolute;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  /*Centering*/
+  
+  margin: -40px 0 0 -60px;
+  left: 50%;
+  top: 50%;
+  display: block;
+  background: #FA614D;
+  transition: background-color 0.5s ease;
+  color: white;
+}
+
+.play:hover {
+  background: #C31A1F;
+}
+
+.icon-play {
+  line-height: 80px;
+}
+
+.icon-play:before {
+  cursor: pointer;
+}

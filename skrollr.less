@@ -1,0 +1,66 @@
+.header {
+    -skrollr-animation-name: headerbg;
+}
+.navbar {
+    -skrollr-animation-name: navbarbg;
+}
+.logo {
+    -skrollr-animation-name: logo;
+}
+.kapitelnr {
+    -skrollr-animation-name: kapitelnr;
+}
+
+@-skrollr-keyframes navbarbg {
+
+    0 {
+        background-color: ~"rgba(41, 26, 57, 0)";
+        box-shadow: 0 3px 6px ~"rgba(0, 0, 0, 0)", 0 3px 6px ~"rgba(0, 0, 0, 0)";
+    }
+
+    220 {
+        box-shadow: 0 3px 6px ~"rgba(0, 0, 0, 0)", 0 3px 6px ~"rgba(0, 0, 0, 0)";
+    }
+
+    230 {
+        background-color: ~"rgba(255, 193, 7, 1)";
+        box-shadow: 0 3px 6px ~"rgba(0, 0, 0, 0.16)", 0 3px 6px ~"rgba(0, 0, 0, 0.23)";
+    }
+}
+
+@-skrollr-keyframes logo {
+    10 {
+        opacity: 0;
+    }
+    230 {
+        opacity: 0.87;
+    }
+}
+
+@-skrollr-keyframes kapitelnr {
+    0 {
+        position: fixed;
+        top: 270px;
+    }
+    220-top {
+        position: fixed;
+        top: -30px;
+        margin-left: -20px;
+    }
+    100-top {
+        margin-left: 20px;
+    }
+}
+
+@-skrollr-keyframes headerbg {
+
+    0 {
+        opacity: 1;
+        height: 350px;
+    }
+
+    230 {
+        opacity: 0;
+        height: 250px;
+    }
+}

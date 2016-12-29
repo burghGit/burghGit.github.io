@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="127px" height="127px" viewBox="0 0 127 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>impressum</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectboundingbox" id="filter-1">
+            <feoffset dx="0" dy="3" in="SourceAlpha" result="shadowoffsetouter1"></feoffset>
+            <fegaussianblur stdDeviation="3" in="shadowoffsetouter1" result="shadowblurouter1"></fegaussianblur>
+            <fecolormatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.28 0" in="shadowblurouter1" type="matrix" result="shadowmatrixouter1"></fecolormatrix>
+            <femerge>
+                <femergenode in="shadowmatrixouter1"></femergenode>
+                <femergenode in="SourceGraphic"></femergenode>
+            </femerge>
+        </filter>
+    </defs>
+    <g id="@FlatGuricht_StuckoMoskwa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="final-buttons" sketch:type="MSArtboardGroup" transform="translate(-930.000000, -114.000000)" filter="url(#filter-1)" fill="#727272">
+            <g id="impressum" sketch:type="MSLayerGroup" transform="translate(936.000000, 117.000000)">
+                <path d="M51.5772291,85.9215622 L63.0388356,85.9215622 L63.0388356,51.5529373 L51.5772291,51.5529373 L51.5772291,85.9215622 L51.5772291,85.9215622 Z M0,57.2810415 C0,88.9001764 25.6739985,114.562083 57.3080324,114.562083 C88.9420663,114.562083 114.616065,88.9001764 114.616065,57.2810415 C114.616065,25.6619066 88.9420663,0 57.3080324,0 C25.6739985,0 0,25.6619066 0,57.2810415 Z M51.5772291,40.096729 L63.0388356,40.096729 L63.0388356,28.6405207 L51.5772291,28.6405207 L51.5772291,40.096729 L51.5772291,40.096729 Z" id="Icon_Impressum" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

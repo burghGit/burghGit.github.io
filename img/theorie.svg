@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="268px" height="219px" viewBox="0 0 268 219" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>theorie</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectboundingbox" id="filter-1">
+            <feoffset dx="0" dy="3" in="SourceAlpha" result="shadowoffsetouter1"></feoffset>
+            <fegaussianblur stdDeviation="3" in="shadowoffsetouter1" result="shadowblurouter1"></fegaussianblur>
+            <fecolormatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.28 0" in="shadowblurouter1" type="matrix" result="shadowmatrixouter1"></fecolormatrix>
+            <feoffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feoffset>
+            <fegaussianblur stdDeviation="1" in="shadowOffsetInner1" result="shadowBlurInner1"></fegaussianblur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <fecolormatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.56 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></fecolormatrix>
+            <femerge>
+                <femergenode in="shadowmatrixouter1"></femergenode>
+                <femergenode in="SourceGraphic"></femergenode>
+                <femergenode in="shadowMatrixInner1"></femergenode>
+            </femerge>
+        </filter>
+    </defs>
+    <g id="@FlatGuricht_StuckoMoskwa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="final-buttons" sketch:type="MSArtboardGroup" transform="translate(-88.000000, -22.000000)">
+            <g id="theorie" sketch:type="MSLayerGroup" transform="translate(94.000000, 25.000000)">
+                <rect id="Bg_Theorie" fill="#FFA000" filter="url(#filter-1)" sketch:type="MSShapeGroup" x="0" y="0" width="255.145327" height="206.909084"></rect>
+                <path d="M96,155.03094 L99.8102455,138.633443 L99.1046445,131.117923 L109.406419,104.198699 L103.338251,104.198699 L103.338251,108.571365 L100.656967,108.571365 L100.656967,97.2297627 L103.338251,97.2297627 L103.338251,101.602429 L110.394261,101.602429 L116.321309,86.0248064 C114.9101,83.8384625 114.204506,81.5610552 114.204506,79.192516 C114.204506,76.0040978 115.239377,73.271209 117.309151,70.9937674 C119.378924,68.7163259 122.060181,67.3498815 125.353002,66.8943932 L125.353002,52 L128.739887,52 L128.739887,66.8943932 C131.938628,67.3498815 134.619885,68.7163259 136.783739,70.9937674 C138.947593,73.271209 140.029503,76.0040978 140.029503,79.192516 C140.029503,80.6500786 139.653187,82.2898119 138.900542,84.1117651 L145.392071,101.602429 L152.024721,101.602429 L152.024721,97.2297627 L154.847125,97.2297627 L154.847125,108.571365 L152.024721,108.571365 L152.024721,104.198699 L146.379912,104.198699 L156.681687,131.117923 L155.976086,138.633443 L159.786332,155.03094 L151.177999,140.546484 L145.109831,134.944006 L127.893166,92.3105136 L110.676501,134.944006 L104.608332,140.546484 L96,155.03094 Z M118.438112,79.192516 C118.438112,81.5610552 119.284825,83.5651737 120.978276,85.2049316 C122.671727,86.8446895 124.764989,87.6873302 127.258125,87.732879 C129.751261,87.7784279 131.844523,86.9357871 133.537974,85.2049316 C135.231425,83.474076 136.101657,81.4471834 136.148698,79.1241931 C136.195738,76.8012027 135.325505,74.8198583 133.537974,73.1801004 C131.750442,71.5403425 129.6807,70.6749277 127.328685,70.58383 C124.788509,70.58383 122.671727,71.4492448 120.978276,73.1801004 C119.284825,74.9109559 118.438112,76.9150744 118.438112,79.192516 L118.438112,79.192516 Z M122.812839,79.3291618 C122.812839,78.1448922 123.283235,77.1428329 124.224041,76.322954 C125.164847,75.503075 126.199718,75.0475936 127.328685,74.9564959 C128.457652,74.8653982 129.445484,75.3208797 130.292209,76.322954 C131.138935,77.3250283 131.562291,78.3270875 131.562291,79.3291618 C131.562291,80.3312361 131.138935,81.3332953 130.292209,82.3353696 C129.445484,83.3374438 128.457652,83.7473772 127.328685,83.5651819 C126.199718,83.3829865 125.164847,82.9730532 124.224041,82.3353696 C123.283235,81.6976859 122.812839,80.6956267 122.812839,79.3291618 L122.812839,79.3291618 Z" id="Theorie" fill="#448AFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

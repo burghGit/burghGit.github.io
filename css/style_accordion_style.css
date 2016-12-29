@@ -1,0 +1,188 @@
+
+
+/*horizontale Ausrichtung der großen Icons via style_guricons2!!*/
+
+html, body
+{
+    height: 100%;
+}
+
+/*body
+{
+    font: 16px/1 'Open Sans', sans-serif;
+    background: transparent;
+}*/
+
+/*der gesamte Balken */
+
+.nav
+{
+    position: center;
+    top: 2%;
+    width: 500px;
+    height: 80px;
+    transform: translateZ(0);
+}
+
+/*schmaleHooverkaestchen*/
+
+.nav:hover .link
+{
+    width: 5%;
+}
+
+/* NormKaestchen */
+
+.nav .link
+{
+    position: relative;
+    float: left;
+    width: 20%;
+    height: 100%;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.01);
+    color: #c78d02;
+    border-right: 1px solid rgba(54, 53, 54, 0.4);
+    transition: .5s width;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 60px;
+}
+
+/*spezielles Kram für die einzelnen Icons groß und klein*/
+
+.a
+{
+    font-size: 70px;
+    margin-left: -0.1em;
+    position: absolute;
+    top: -10%;
+}
+
+.a_small
+{
+    font-size: 24px;
+    margin-left: -3px;
+}
+
+.b
+{
+}
+
+.b_small
+{
+}
+
+.c
+{
+}
+
+.c_small
+{
+}
+
+.d
+{
+    font-size: 20px;
+}
+
+.d_small
+{
+}
+
+.e
+{
+}
+
+.e_small
+{
+}
+
+.nav .link:last-child
+{
+    border-right: 0;
+}
+
+.nav .link:hover
+{
+    width: 80%;
+    color: #fcc235;
+}
+
+
+
+/*dies ist mir unklar!!° */
+
+.nav .link .small
+{
+    position: absolute;
+    top: 90;
+    left: 90;
+    width: 100px;
+    line-height: 78px;
+    text-align: center;
+    font-family: guricons2;
+    font-size: 12px;
+    color: #D41201;
+}
+
+/* gesamt Text*/
+
+.nav .link .full
+{
+    position: absolute;
+    top: 40px;
+    left: 110px;
+    text-transform: uppercase;
+}
+
+/* gesamt Text*/
+
+.nav .link .full .f1, .nav .link .full .f2
+{
+    font-size: 26px;
+    font-weight: lighter;
+    white-space: nowrap;
+}
+
+*
+{
+    padding: 0;
+    box-sizing: border-box;
+    text-align: left;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/*2.te Textzeile*/
+
+.nav .link .full .f2
+{
+    margin-top: 8px;
+    font-size: 12px;
+}
+
+/*auch kleine Icons*/
+
+.nav .link .prev
+{
+    position: absolute;
+    top: 5px;
+    left: -4px;
+    font-family: guricons2;
+    font-size: 20px;
+    line-height: 78px;
+    transition: .5s opacity;
+    opacity: 0;
+}
+
+.nav .link:hover .prev
+{
+    opacity: 0;
+}
+
+.nav:hover .prev
+{
+    opacity: 1;
+}
+
